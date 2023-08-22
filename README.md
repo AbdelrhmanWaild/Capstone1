@@ -1,2 +1,1 @@
-# Capstone1
-Capstone: Tic Tac Toe
+# Every Project in the internship
